@@ -38,3 +38,23 @@
     font-size: 18px;
     text-align: justify;
 }
+@media screen and (max-device-width : 480px) {
+    .name{
+        font-size: 25px;
+    }
+    .study{
+        font-size: 18px;
+    }
+    .gradee{
+        text-align: center;
+        font-size: 20px;
+    }
+    .university{
+        text-align: center;
+        font-size: 18px;
+    }
+    .year{
+        text-align: center;
+        font-size: 18px;
+    }
+}
