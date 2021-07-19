@@ -38,6 +38,9 @@
     font-size: 18px;
     text-align: justify;
 }
+td{
+    text-align: justify;
+}
 @media screen and (max-device-width : 480px) {
     .name{
         font-size: 25px;
