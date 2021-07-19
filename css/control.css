@@ -1,0 +1,40 @@
+
+.title{
+    color: black;
+    font-size: 24px;
+}
+
+
+.avatar{
+    padding: 20px;
+}
+.main-div{
+    background-color: white;   
+}
+
+.info-content{
+    background-color: white;
+}
+
+.name{
+    font-size: 40px;
+}
+.study{
+    font-size: 20px;
+}
+.gradee{
+    font-size: 30px;
+}
+.university{
+    font-size: 20px;
+}
+.year{
+    font-size: 20px;
+}
+.conocimiento{
+    font-size: 30px;
+}
+.resume{
+    font-size: 18px;
+    text-align: justify;
+}
